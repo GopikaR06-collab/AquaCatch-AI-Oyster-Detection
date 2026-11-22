@@ -109,6 +109,23 @@ streamlit run app.py
 
 ## 📸 Project Screenshots
 
+### Streamlit Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+### Oyster Detection
+![Live Detection](screenshots/Oyester-livedetection.jpg)
+
+### Prediction and Size Estimation
+![Prediction](screenshots/SizeEstimation.jpg)
+
+### Live Detection and Analytics
+![Live Detection](screenshots/Live-detection1.jpg)
+
+### Geospatial Visualization
+![Geospatial Map](screenshots/geospatial-map.jpg)
+
+### Model Training
+![ML Model Training](screenshots/model-train.jpg)
 
 ## 👥 Team ImpactX
 
